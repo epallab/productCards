@@ -1,0 +1,122 @@
+.main-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9em;
+}
+
+.card {
+  width: 330px;
+  height: 350px;
+  background-color: #050d22;
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+}
+
+.title {
+  margin-bottom: 15px;
+  display: flex;
+  color: rgb(137, 137, 137);
+}
+
+.title > div:nth-child(2) {
+  margin-left: 10px;
+}
+
+.tabs {
+  margin: 10px 0px;
+  padding-bottom: 5px;
+  display: flex;
+  border-bottom: 1.5px solid rgb(90, 90, 90);
+}
+
+.tab-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 0.9em;
+  margin: 0px 2px;
+  border-radius: 5px;
+  padding: 8px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  color: white;
+  background-color: #01012200;
+  transition: background-color 0.1s ease-in;
+}
+
+.tab-btn > div:nth-child(1) {
+  display: flex;
+  align-items: center;
+  font-size: 1.4em;
+}
+
+.tab-btn > div:nth-child(2) {
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.tab-btn:hover {
+  background-color: #353c50;
+  color: white;
+}
+.tab-btn:active {
+  background-color: #353c50 !important;
+  color: #0ddcf3;
+}
+
+.active {
+  background-color: #353c50 !important;
+  color: #0ddcf3;
+}
+
+.exp {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 0.8em;
+  margin: 0px 2px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 1.5px solid white;
+  color: white;
+  background-color: #01012200;
+  transition: background-color 0.1s ease-in;
+}
+
+.card-item {
+  margin: 15px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item-details {
+  display: flex;
+  align-items: center;
+}
+.item-details > div:nth-child(1) img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.item-title {
+  font-weight: 500;
+  font-size: 0.9em;
+}
+.item-categories {
+  color: #858ba6;
+  font-size: 0.7em;
+  margin-top: 4px;
+}
