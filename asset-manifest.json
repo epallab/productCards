@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/productCards/static/css/main.1227dfd6.css",
+    "main.js": "/productCards/static/js/main.2c61b830.js",
+    "static/js/787.d3befce1.chunk.js": "/productCards/static/js/787.d3befce1.chunk.js",
+    "static/media/open.jpg": "/productCards/static/media/open.529f8f17b2ccf7f078da.jpg",
+    "static/media/spider.avif": "/productCards/static/media/spider.a19899e64770e3e7bf04.avif",
+    "static/media/avatar.avif": "/productCards/static/media/avatar.ff0fb904a314a100559b.avif",
+    "static/media/gtaVi.jpg": "/productCards/static/media/gtaVi.0eafbb93766ed27eb4e5.jpg",
+    "static/media/bloodWest.webp": "/productCards/static/media/bloodWest.e3845aca3d2a3292bb33.webp",
+    "static/media/animal.avif": "/productCards/static/media/animal.adb994338f19eb7a94ca.avif",
+    "static/media/right.jpg": "/productCards/static/media/right.95a206c0530d95c0d15e.jpg",
+    "static/media/oath.jpg": "/productCards/static/media/oath.cc89fb8b19856c10b440.jpg",
+    "static/media/things.jpg": "/productCards/static/media/things.382ac6c8eaba056f788a.jpg",
+    "index.html": "/productCards/index.html",
+    "main.1227dfd6.css.map": "/productCards/static/css/main.1227dfd6.css.map",
+    "main.2c61b830.js.map": "/productCards/static/js/main.2c61b830.js.map",
+    "787.d3befce1.chunk.js.map": "/productCards/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1227dfd6.css",
+    "static/js/main.2c61b830.js"
+  ]
+}
